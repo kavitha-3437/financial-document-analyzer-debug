@@ -27,10 +27,6 @@ Issue: Missing environment variables caused runtime errors.
 
 Fix: Added .env.example and updated documentation.
 
-Setup Instructions
 
-1. Clone Repository
 
-git clone https://github.com/<your-username>/financial-document-analyzer-debug.git
-cd financial-document-analyzer-debug
 
